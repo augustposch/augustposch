@@ -1,4 +1,10 @@
-### Hi there 👋
+### August Posch
+
+I'm a data scientist focused on improving public transit. I love understanding the world through data, and using that understanding to help people! Expected to graduate with MS Data Science in summer 2022. Portfolio coming soon.
+
+Currently working on transit ridership prediction, in order to reduce crowding and encourage more people to choose transit over cars.
+
+Feel free to reach out via email: augustposch@augustposch.us or posch.au@northeastern.edu.
 
 <!--
 **augustposch/augustposch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
