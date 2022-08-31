@@ -1,6 +1,6 @@
 ### August Posch
 
-I'm a data scientist focused on improving public transit. I love understanding the world through data, and using that understanding to help people! Graduated with MS Data Science in summer 2022
+I'm a data scientist focused on improving public transit. I love understanding the world through data, and using that understanding to help people! Graduated with MS Data Science in summer 2022.
 
 Currently working on transit ridership prediction, in order to reduce crowding and encourage more people to choose transit over cars.
 
