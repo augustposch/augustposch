@@ -1,8 +1,8 @@
 ### August Posch
 
-I'm a data scientist focused on improving public transit. I love understanding the world through data, and using that understanding to help people! I currently work as a researcher in the Ganguly SDS Lab at Northeastern University.
+I'm a geospatial data scientist. I love understanding the world through data, and using that understanding to help people! I currently work as a researcher in the Ganguly SDS Lab at Northeastern University.
 
-Currently working on:
+Currently working on:   
 - in-season crop mapping, using satellite data and machine learning, in order to predict yields and manage extreme weather;
 - transit system resilience, to predict and deter threats, and to recover functionality optimally if hazards do occur;
 - transit ridership prediction, in order to reduce crowding and encourage more people to choose transit over cars.
